@@ -1,0 +1,20 @@
+.DS_Store
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+
+# Build outputs
+DerivedData/
+build/
+
+# Swift Package Manager build cache
+.build/
+
+# App packaging / symbols
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Local-only config
+*.xcconfig.local
