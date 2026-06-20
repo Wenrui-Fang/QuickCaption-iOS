@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Driven Development"
+  short_description: "Plan and approve complex changes before coding"
+  default_prompt: "Use $spec-driven-development to define and approve a feature before implementation."
